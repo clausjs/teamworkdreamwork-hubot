@@ -1,4 +1,4 @@
-cription:
+# Description:
 #   A way to interact with the Google Images API.
 #
 # Commands:
