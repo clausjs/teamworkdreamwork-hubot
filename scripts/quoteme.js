@@ -11,8 +11,6 @@
 //   hubot is it weekend ?  - returns whether is it weekend or not
 //   hubot is it holiday ?  - returns whether is it holiday or not
 
-var jsdom = require('jsdom');
-
 module.exports = function(robot) {
     /*robot.respond(/quote me (.*)/i, function(msg) {
     	var movie = msg.match[1].trim(),
