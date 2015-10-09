@@ -14,7 +14,7 @@
 var jsdom = require('jsdom');
 
 module.exports = function(robot) {
-    robot.respond(/quote me (.*)/i, function(msg) {
+    /*robot.respond(/quote me (.*)/i, function(msg) {
     	var movie = msg.match[1].trim(),
     	movie = movie.toLowerCase();
 
@@ -36,5 +36,9 @@ module.exports = function(robot) {
 					);
     			}
     		});
+    });*/
+
+    robot.respond(/quote me (.*)/i, function(msg) {
+        msg.send("I see you said things");
     });
 }
