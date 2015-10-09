@@ -8,5 +8,8 @@
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
-  "hubot-shipit"
+  "hubot-shipit",
+  "hubot-scripts/src/scripts/bees",
+  "hubot-scripts/src/scripts/applause",
+  "hubot-scripts/src/scripts/lyrics"
 ]
