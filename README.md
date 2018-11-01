@@ -11,6 +11,7 @@ has, etc!
 [heroku]: http://www.heroku.com
 [hubot]: http://hubot.github.com
 [generator-hubot]: https://github.com/github/generator-hubot
+[docker documentation] https://docs.docker.com/engine/reference/commandline/info/
 
 ### Running hubot Locally
 
